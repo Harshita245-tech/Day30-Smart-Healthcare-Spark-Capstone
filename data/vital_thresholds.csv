@@ -1,0 +1,6 @@
+vital_name,min_value,max_value,severity
+heart_rate,60,100,HIGH
+temperature,36.0,37.5,HIGH
+oxygen_level,95,100,HIGH
+systolic_bp,90,140,HIGH
+diastolic_bp,60,90,HIGH

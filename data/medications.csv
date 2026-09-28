@@ -1,0 +1,9 @@
+medication_id,patient_id,medication_name,dosage_mg,start_date,status
+M001,P001,Aspirin,75,2026-09-01,ACTIVE
+M002,P002,Levetiracetam,500,2026-09-03,ACTIVE
+M003,P003,Metoprolol,50,2026-08-25,ACTIVE
+M004,P004,Paracetamol,500,2026-09-10,COMPLETED
+M005,P005,Ibuprofen,400,2026-09-05,ACTIVE
+M006,P006,Metoprolol,100,2026-08-20,ACTIVE
+M007,P007,Gabapentin,300,2026-09-02,ACTIVE
+M008,P008,Paracetamol,500,2026-09-08,ACTIVE

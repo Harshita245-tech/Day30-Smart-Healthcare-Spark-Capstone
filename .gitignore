@@ -1,0 +1,8 @@
+target/
+project/target/
+project/project/
+.idea/
+*.class
+*.log
+output/
+spark-warehouse/

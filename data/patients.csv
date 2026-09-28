@@ -1,0 +1,9 @@
+patient_id,patient_name,age,gender,hospital_id,department
+P001,Aarav,45,M,H001,Cardiology
+P002,Diya,32,F,H002,Neurology
+P003,Rahul,67,M,H001,Cardiology
+P004,Ananya,28,F,H003,General Medicine
+P005,Vikram,59,M,H002,Orthopedics
+P006,Meera,74,F,H001,Cardiology
+P007,Kiran,51,M,H003,Neurology
+P008,Priya,39,F,H002,General Medicine
